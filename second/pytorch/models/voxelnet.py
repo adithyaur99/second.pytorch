@@ -3,7 +3,7 @@ from enum import Enum
 from functools import reduce
 
 import numpy as np
-import sparseconvnet as scn
+import spconv as scn
 import torch
 from torch import nn
 from torch.nn import functional as F
